@@ -30,6 +30,6 @@ Contributions are always welcome!
   
 ## License
 
-[apache-2](https://choosealicense.com/licenses/apache-2.0/)
+[GPL-3](https://choosealicense.com/licenses/agpl-3.0/)
 
   
