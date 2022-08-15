@@ -11,6 +11,8 @@ The cryptography library is used for encryption.
 - Save the encrypted file with the new key
 - Open the encrypted file in the program and decrypt it with the previous key and save the file
 
+![alt text](https://raw.githubusercontent.com/AbduEbrahimi/data-encryption/main/screen.jpg)
+
 ## run
 
 ```sh
