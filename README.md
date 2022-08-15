@@ -13,6 +13,14 @@ The cryptography library is used for encryption.
 
 ![alt text](https://raw.githubusercontent.com/AbduEbrahimi/data-encryption/main/screen.jpg)
 
+## requirements
+
+```sh
+PyQt6
+cryptography
+```
+
+
 ## run
 
 ```sh
