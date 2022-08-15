@@ -1,5 +1,5 @@
 # data-encryption
-## Encoding and decoding of all types of text files
+## Encrypt and decrypt of all types of text files
 
 Graphical program written with Python and pyqt6 library.
 The cryptography library is used for encryption.
